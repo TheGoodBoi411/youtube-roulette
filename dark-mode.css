@@ -1,0 +1,57 @@
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+
+[data-theme="dark"] .card {
+  background-color: #303030 !important;
+}
+
+[data-theme="dark"] .card-header {
+  background-color: #444 !important;
+}
+
+[data-theme="dark"] .card-footer {
+  background-color: #444 !important;
+}
+
+[data-theme="dark"] .btn-light {
+  background-color: #333 !important;
+  color: #eee !important;
+}
+
+[data-theme="dark"] .border {
+  border-color: #444 !important;
+}
+
+[data-theme="dark"] .nav-link {
+  color: #eee !important;
+}
+
+[data-theme="dark"] .nav-tabs > .active {
+  background-color: #333 !important;
+  border-top: #444 !important;
+  border-right: #444 !important;
+  border-left: #444 !important;
+  border-bottom: 1px solid #444 !important;
+}
+
+[data-theme="dark"] .nav-tabs {
+  border-bottom: 1px solid #444 !important;
+}
+
+[data-theme="dark"] a {
+  color: #6794ff !important;
+}
